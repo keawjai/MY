@@ -1,5 +1,6 @@
 /**
  * @format
+ * keawjai lexmek
  */
 
 import {AppRegistry} from 'react-native';
